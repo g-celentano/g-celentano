@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey! 👋
 
-<!--
-**g-celentano/g-celentano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gaetano, a 23 years old developer from Italy
+- IT engineering student in Naples, Italy 
+- Student at @developer-academy-unina
 
-Here are some ideas to get you started:
+# Skills
+  - 👨‍💻 C, C++, Dart, Java
+  - 👁️ Flutter, SwiftUi
+  - 💾 MySQL, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contacts
+- gaetano99celentano@gmail.com
+- @gaetano_celentano on Instagram
+- Gaetano Celentano#7372 on Discord
