@@ -5,7 +5,7 @@ I'm Gaetano, a 23 years old developer from Italy
 - Student at @developer-academy-unina
 
 # Skills
-  - 👨‍💻 C, C++, Dart, Java Python
+  - 👨‍💻 C, C++, Dart, Java, Python
   - 👁️ Flutter, SwiftUi
   - 💾 MySQL, SQL
 
