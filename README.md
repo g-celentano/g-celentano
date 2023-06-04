@@ -1,7 +1,7 @@
 # Hey! 👋
 
 I'm Gaetano, a 23 years old developer from Italy
-- IT engineering student in Naples, Italy 
+- Bachelor Degree as IT Engineer
 - Student at @developer-academy-unina
 
 # Skills
