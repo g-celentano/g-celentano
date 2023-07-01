@@ -6,7 +6,7 @@ I'm Gaetano, a 23 years old developer from Italy
 
 # Skills
   - 👨‍💻 C, C++, Dart, Java, Python
-  - 👁️ Flutter, SwiftUi
+  - 👁️ Flutter, SwiftUI, and a little bit of UIKit
   - 💾 MySQL, SQL
 
 # Contacts
