@@ -2,7 +2,7 @@
 
 I'm Gaetano, a 23 years old developer from Italy
 - Bachelor Degree as IT Engineer
-- Graduated student at @developer-academy-unina
+- Alumni at @developer-academy-unina
 
 # Skills
   - 👨‍💻 C, C++, Dart, Java, Python
