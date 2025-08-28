@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm Gaetano, a 25 years old developer from Italy
+I'm Gaetano, a 26 years old developer from Italy
 - Bachelor Degree as IT Engineer
 - Alumni at @developer-academy-unina
 - IT Engineering Master's Degree student 
